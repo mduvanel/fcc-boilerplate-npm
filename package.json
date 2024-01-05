@@ -1,5 +1,6 @@
 {
 	"author": "Martin Duvanel",
+	"description": "My great NPM package project",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
